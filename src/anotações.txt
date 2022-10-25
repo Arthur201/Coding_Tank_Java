@@ -1,0 +1,20 @@
+* STRING --> é uma classe em Java, logo, podemos usar algumas funções: string.
+lenght(), string.UpperCase(), etc.
+* WRAPPER --> é transformar os tipos primitivos de dados em classes.
+    Ex: boolean --> Boolean; int --> Integer; double --> Double.
+    Geralmente, para fazer o wrapper, é só instanciar com a letra inicial em maiúsculo.
+
+*Array
+    - Você não altera o tipo dele depois de gerado;
+    - Você não consegue alterar seu tamanho depois de criado;
+
+* Tratamento de Erro (Try, Catch, Finally)
+
+    - Try{
+        bloco de código
+        } Catch{
+            bloco de codigo executado caso ocorra erro no Try
+                }
+        Finally{
+         bloco de código que sempre será executado
+        }
